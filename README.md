@@ -1,4 +1,4 @@
-# my-company-adminserver-backingservice
+# my-company-adminserver-backingservice [![CircleCI](https://circleci.com/gh/ivans-innovation-lab/my-company-adminserver-backingservice.svg?style=svg)](https://circleci.com/gh/ivans-innovation-lab/my-company-adminserver-backingservice)
 A simple application to manage and monitor microservices
 
 ## Running instructions
