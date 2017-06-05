@@ -6,6 +6,7 @@
 	<artifactId>my-company-adminserver-backingservice</artifactId>
 	<name>My Company Admin Server</name>
 	<description>Admin Server</description>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -172,7 +173,7 @@
 				<repository>
 					<id>idugalic-releases</id>
 					<name>idugalic-releases</name>
-					<url>http://maven.idugalic.pro/artifactory/local-repository</url>
+					<url>http://maven.idugalic.pro/artifactory/local-release-repository</url>
 				</repository>
 				<snapshotRepository>
 					<id>idugalic-snapshots</id>
