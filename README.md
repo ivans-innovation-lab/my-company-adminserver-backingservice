@@ -1,6 +1,8 @@
 # [projects](http://ivans-innovation-lab.github.io/projects)/my-company-adminserver-backingservice [![CircleCI](https://circleci.com/gh/ivans-innovation-lab/my-company-adminserver-backingservice.svg?style=svg)](https://circleci.com/gh/ivans-innovation-lab/my-company-adminserver-backingservice)
 A simple application to manage and monitor microservices
 
+https://github.com/codecentric/spring-boot-admin
+
 ## Running instructions
 
 Make sure that services are running:
